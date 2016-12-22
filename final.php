@@ -3,13 +3,13 @@
 <html>
 	<head>
 		<meta charset="utf-8"/>
-		<title>PHP Quizzer</title>
+		<title>Quizzer</title>
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 	</head>
 	<body>
 		<header>
-			<div class="container">
-				<h1>PHP Quizzer</h1>
+			<div class="container title">
+				<h1>Quizzer</h1>
 			</div>
 		</header>
 		<main>

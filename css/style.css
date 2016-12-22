@@ -24,6 +24,9 @@ input[type='text']{
 	border: 1px #CCC solid;
 }
 
+.title{
+	text-align: center;
+}
 input[type='number']{
 	width: 5%;
 	padding: 4px;

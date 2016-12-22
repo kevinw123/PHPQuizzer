@@ -66,7 +66,7 @@
 	<body>
 		<header>
 			<div class="container">
-				<h1>PHP Quizzer</h1>
+				<h1>Quizzer</h1>
 			</div>
 		</header>
 		<main>
