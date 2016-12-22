@@ -12,6 +12,24 @@ a{
 	text-decoration: none;
 }
 
+label{
+	display:inline-block;
+	width: 180px;
+}
+
+input[type='text']{
+	width: 97%;
+	padding: 4px;
+	border-radius: 5px;
+	border: 1px #CCC solid;
+}
+
+input[type='number']{
+	width: 5%;
+	padding: 4px;
+	border-radius: 5px;
+	border: 1px #CCC solid;
+}
 .container{
 	width: 60%;
 	margin: 0 auto;
@@ -45,4 +63,10 @@ a.start{
 	background: #F4F4F4;
 	border: #CCC dotted 1px;
 	margin: 20px 0 10px 0;
+}
+
+@media only screen and (max-width: 960px){
+	.container{
+		width: 80%;
+	}
 }
