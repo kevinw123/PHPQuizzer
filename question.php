@@ -40,7 +40,7 @@
 			</div>
 		</header>
 		<main>
-			<div class="questionContainer">
+			<div class="question-container">
 				<div class="current">Question <?php echo $question['question_number']; ?> of <?php echo $total ?></div>
 				<p class="question">
 					<?php echo $question['text']; ?>
@@ -51,7 +51,7 @@
 							<li><input  name="choice" type="radio" value="<?php echo $row['id']; ?>" /><?php echo $row['text']; ?></li>
 						<?php endwhile; ?>
 					</ul>
-					<input type="submit" value="Submit"/>
+					<input type="submit" value="Submit" class="submit-btn"/>
 					<input type="hidden" name="number" value="<?php echo $number; ?>" />
 				</form>
 			</div>

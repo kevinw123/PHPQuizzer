@@ -40,7 +40,7 @@ input[type='number']{
 	text-align: center;
 }
 
-.questionContainer{
+.question-container{
 	width: 60%;
 	margin: 0 auto;
 	overflow: auto;
@@ -62,8 +62,8 @@ main{
 
 a.start{
 	display: inline-block;
-	color: #666;
-	background: #F4F4F4;
+	color: #FFF;
+	background: #5BC0DE;
 	border: 1px dotted #CCC;
 	padding: 6px 13px;
 }
@@ -79,4 +79,12 @@ a.start{
 	.container{
 		width: 80%;
 	}
+}
+
+.submit-btn{
+	background: #5CB85C;
+	display: inline-block;
+	color: #FFF;
+	border: 1px dotted #CCC;
+	padding: 6px 13px;
 }
