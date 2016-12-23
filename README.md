@@ -1,4 +1,4 @@
-# PHPQuizzer
+# Quizzer
 - Quiz App to add questions and answer
 - Built with PHP, MySQL, HTML, CSS
 ![ScreenShot](/img/image1.png)
