@@ -21,8 +21,8 @@
 		</header>
 		<main>
 			<div class="container">
-				<h2>Test Your PHP Knowledge</h2>
-				<p>This is a multiple choice quiz to test your knowlege of PHP</p>
+				<h2>Test Your knowledge</h2>
+				<p>This is a multiple choice quiz to test your knowlege</p>
 				<ul>
 					<li><strong>Number of Questions: </strong><?php echo $total; ?></li>
 					<li><strong>Type: </strong>Multiple Choice</li>

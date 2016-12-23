@@ -111,7 +111,7 @@
 						<input type="number" name="correct_choice"/>
 					</p>
 					<p>
-						<input type="submit" name="submit" value="Submit"/>
+						<input type="submit" name="submit" value="Submit" class="submit-btn"/>
 					</p>
 			</div>
 		</main>
