@@ -33,7 +33,7 @@
 		</main>
 		<footer>
 			<div class="container">
-				Copyright &copy; 2016, PHP Quizzer
+				Copyright &copy; 2016, Quizzer
 			</div>
 		</footer>
 	</body>

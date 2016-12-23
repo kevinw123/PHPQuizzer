@@ -40,7 +40,7 @@
 			</div>
 		</header>
 		<main>
-			<div class="container">
+			<div class="questionContainer">
 				<div class="current">Question <?php echo $question['question_number']; ?> of <?php echo $total ?></div>
 				<p class="question">
 					<?php echo $question['text']; ?>
@@ -58,7 +58,7 @@
 		</main>
 		<footer>
 			<div class="container">
-				Copyright &copy; 2016, PHP Quizzer
+				Copyright &copy; 2016, Quizzer
 			</div>
 		</footer>
 	</body>
